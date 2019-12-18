@@ -39,7 +39,7 @@ exports.handler = async function http(req) {
   }
 }
 
-// Example responses
+// Example responses......
 
 /* Forward requester to a new path
 exports.handler = async function http (req) {
